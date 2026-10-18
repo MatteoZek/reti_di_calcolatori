@@ -17,7 +17,6 @@ body {
 }
 
 button {
-  display: inline-flex;
   align-items: center;
   gap: 0.5rem;
   padding: 1rem 2rem;
@@ -28,6 +27,5 @@ button {
   font-size: 1rem;
   font-weight: 600;
   cursor: pointer;
-  transition: all 0.3s ease;
   box-shadow: 0 10px 30px rgba(253, 251, 219, 0.3);
 }
