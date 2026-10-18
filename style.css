@@ -1,4 +1,4 @@
-h1{
+.title{
   align-items: center;
 }
 
@@ -16,6 +16,17 @@ body {
   color: #09090b;
   border-radius: 8px;
   font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+  border: none;
+}
+
+.button2{
+  padding: 12px 28px;
+  background-color: rgb(254, 15, 15);
+  color: black;
+  border-radius: 8px;
+  font-size: 18px;
   cursor: pointer;
   text-align: center;
   border: none;
