@@ -38,6 +38,7 @@ body {
 .img {
   width: 25%;
   height: auto;
+  vspace: 20;
 }
 
 .clkbl_img {
