@@ -5,6 +5,8 @@
 
 a{
   display: block;
+  margin-top: 20px;
+  margin-bottom: 10px;
 }
 
 body {
@@ -52,6 +54,6 @@ body {
 }
 
 .clkbl_img:hover {
-  box-shadow: 0 0 2px 1px rgba(255, 245, 102, 0.3);
+  box-shadow: 0 0 4px 2px rgba(255, 245, 102, 0.3);
 }
 
