@@ -3,6 +3,10 @@
   align-items: center;
 }
 
+a{
+  display: block;
+}
+
 body {
   background: #18181b;
   font-family: 'Inter', system-ui, sans-serif;
@@ -18,7 +22,7 @@ body {
   cursor: pointer;
   text-align: center;
   border: none;
-  display: block
+  display: block;
 }
 
 .button2{
@@ -30,9 +34,7 @@ body {
   cursor: pointer;
   text-align: center;
   border: none;
-  margin-top: 20px;
-  margin-left: 15px;
-  display: block
+  display: block;
 }
 
 .img {
