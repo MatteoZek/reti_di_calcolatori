@@ -1,6 +1,6 @@
 :root {
-  --primary: #a855f7;
-  --secondary: #ec4899;
+  --primary: #f7f5eb;
+  --secondary: #fffa9e;
   --accent: #06b6d4;
   --bg-dark: #09090b;
   --bg-card: #18181b;
@@ -14,4 +14,20 @@ body {
   color: var(--text);
   align-items: center;
   justify-content: center;
+}
+
+button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 1rem 2rem;
+  background: linear-gradient(135deg, var(--primary), var(--secondary));
+  border: none;
+  border-radius: 0.75rem;
+  color: rgb(0, 0, 0);
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 10px 30px rgba(253, 251, 219, 0.3);
 }
