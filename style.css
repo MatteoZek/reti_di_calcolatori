@@ -1,6 +1,7 @@
 .title{
   justify-content: center;
   align-items: center;
+  display: block;
 }
 
 a{
@@ -17,7 +18,7 @@ body {
 
 .button{
   padding: 12px 28px;
-  background-color: rgb(243, 223, 0);
+  background-color: linear-gradient(90deg, rgb(255,255,255), rgb(243, 223, 0));
   color: #09090b;
   border-radius: 8px;
   font-size: 16px;
@@ -29,7 +30,7 @@ body {
 
 .button2{
   padding: 12px 28px;
-  background-color: rgb(254, 15, 15);
+  background-color: linear-gradient(90deg, rgb(255,255,255), rgb(254, 15, 15));
   color: #09090b;
   border-radius: 8px;
   font-size: 18px;
