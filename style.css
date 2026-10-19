@@ -27,7 +27,8 @@ body {
   border: none;
   margin-top: 20px;
   margin-bottom: 10px;
-  display: block;
+  display: inline-block;
+  text-decoration: none;
 }
 
 .img {
