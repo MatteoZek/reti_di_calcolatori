@@ -4,6 +4,12 @@ body {
   color: #fafafa;
 }
 
+a{
+  display: block;
+  margin-top:20px;
+  margin-bottom: 10px;
+}
+
 .button{
   padding: 12px 28px;
   background: rgb(243, 223, 0);
@@ -25,7 +31,9 @@ body {
   cursor: pointer;
   text-align: center;
   border: none;
-  disaplay: inline-block;
+  disaplay: block;
+  margin-top:20px;
+  margin-bottom: 10px;
 }
 
 .img {
