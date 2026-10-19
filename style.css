@@ -25,10 +25,7 @@ body {
   cursor: pointer;
   text-align: center;
   border: none;
-  margin-top: 20px;
-  margin-bottom: 10px;
-  display: inline-block;
-  text-decoration: none;
+  disaplay: block;
 }
 
 .img {
