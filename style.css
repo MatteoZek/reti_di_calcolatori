@@ -18,7 +18,7 @@ body {
 
 .button{
   padding: 12px 28px;
-  background: linear-gradient(90deg, rgb(255,255,255), rgb(243, 223, 0));
+  background: rgb(243, 223, 0);
   color: #09090b;
   border-radius: 8px;
   font-size: 16px;
@@ -30,7 +30,7 @@ body {
 
 .button2{
   padding: 12px 28px;
-  background: linear-gradient(90deg, rgb(255,255,255), rgb(254, 15, 15));
+  background: rgb(254, 15, 15);
   color: #09090b;
   border-radius: 8px;
   font-size: 18px;
