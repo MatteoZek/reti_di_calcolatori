@@ -23,10 +23,6 @@ a{
   text-decoration: none;
 }
 
-.button:hover{
-  background: rgb(255, 246, 104);
-}
-
 .button2{
   padding: 12px 28px;
   background: rgb(254, 15, 15);
